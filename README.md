@@ -3,6 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20I'm%20yunseo🦉&fontSize=30&fontColor=fff&fontAlignY=32&desc=Backend%20Developer&descSize=16&descAlignY=55" />
 </div>
 <br/>
+
 ## 🦉 About Me
 
 - 사이버보안을 전공하며 안전하고 신뢰할 수 있는 서비스를 만드는 개발자입니다.  
