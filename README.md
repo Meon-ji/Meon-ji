@@ -43,26 +43,51 @@
 ## 🚀 Projects
 
 <div align="center">
-  <a href="https://github.com/Haru-Film">
+  <!-- <a href="https://github.com/Haru-Film">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haru-Film&repo=backend&theme=tokyonight&hide_border=true" width="320"/>
   </a>
   <a href="https://github.com/smartDormLife">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=smartDormLife&repo=backend&theme=tokyonight&hide_border=true" width="320"/>
-  </a>
+  </a> -->
+  <table>
+  <tr>
+    <td align="center" width="360">
+      <h3>🎬 HaruFilm</h3>
+      <p>영상 다이어리 / 스트리밍 백엔드 프로젝트</p>
+      <p>
+        <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Server-Express-000000?style=flat-square&logo=express&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Haru-Film/backend">
+        <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="360">
+      <h3>🏠 SmartDormLife</h3>
+      <p>기숙사생을 위한 커뮤니티 백엔드 프로젝트</p>
+      <p>
+        <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/API-REST-02569B?style=flat-square"/>
+      </p>
+      <a href="https://github.com/smartDormLife/backend">
+        <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Meon-ji&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meon-ji&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
-<br/>
+<br/> -->
 
 ## 📬 Contact
 
