@@ -43,11 +43,11 @@
 ## 🚀 Projects
 
 <div align="center">
-  <a href="https://github.com/Haru-Film/backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haru-Film&repo=Haru-Film/backend&theme=tokyonight&hide_border=true" width="320"/>
+  <a href="https://github.com/Haru-Film">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haru-Film&repo=backend&theme=tokyonight&hide_border=true" width="320"/>
   </a>
   <a href="https://github.com/smartDormLife">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=smartDormLife&repo=smartDormLife&theme=tokyonight&hide_border=true" width="320"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=smartDormLife&repo=backend&theme=tokyonight&hide_border=true" width="320"/>
   </a>
 </div>
 
